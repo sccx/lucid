@@ -35,7 +35,11 @@ The ETL pipeline ingests the data from and AWS S3 Bucket into an Apache Spark cl
 The Plotly Dash framework provides a number of visualization tools that are accesible with Python. To provide a simple demonstration of the results, bar charts are used to indicate the percentage of bots tweeting about COVID-19 on the date given, while an overlapping line graph shows the percentage of thier tweets that are retweets of other content. Two slider bars allow the user to zoom in and focus on specific days of the month, and the graphs are enabled with mouse-over support.
 
 ![](/Images/Dash_01.png)
+
+Note the slider bar limits, below.
 ![](/Images/Dash_02.png)
+
+Note the mouse-over, below.
 ![](/Images/Dash_03.png)
 ![](/Images/Dash_04.png)
 
