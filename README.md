@@ -1,4 +1,4 @@
-# lucid
+# Lucid
 Analyzing Twitter Bots tweeting about COVID-19
 
 * Introduction
