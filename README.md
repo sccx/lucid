@@ -14,7 +14,9 @@ The objective of this project is to create a database of Twitter bot accounts th
 
 ### Data Set
 The data used for this project was retreived from the Harvard Dataverse, which mines tweets related to COVID-19 and saves the tweet ID for future analysis. From March 3, 2020, through June 3, approximately 1.4GB of text files were generated comprising nearly 240,000,000 19-digit tweet ID strings from around the world. These data look like this: 
+
                                                 ![Data Example](/Images/Tweet_IDs.png)
+
 
 ### Data Pipeline
 
