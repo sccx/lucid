@@ -40,7 +40,6 @@ Note the slider bar limits, below.
 ![](/Images/Dash_02.png)
 
 Note the mouse-over, below.
-![](/Images/Dash_03.png)
 ![](/Images/Dash_04.png)
 
 
